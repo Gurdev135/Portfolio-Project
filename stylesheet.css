@@ -150,29 +150,34 @@ li{
 
 
 @media screen and (max-width: 390px) {
-	#mobilefix1{margin-left: 80px;display:block;}
-	#mobilefix2{width: 310px;}
-	#mobilefix3{margin-left: 80px;margin-top: -4px;}
-	.size{width: 310px; height: 150px;}
+	#mobilefix1{margin-left: 60px;display:block;}
+	#mobilefix2{width: 330px;}
+	#mobilefix3{margin-left: 60px;margin-top: -4px;}
+	.size{width: 330px; height: 150px;}
 	.text{padding: 0px;font-size: 24px;}
 	.margin-top{margin-top: 28px;margin-left: 23px;}
-	.container{height: 460px;}
-	.margin-left{margin-left: 100px;}
+	.container{height: 479px;}
+	.margin-left{margin-left: 80px;}
 	.title{margin-top: 26px;margin-bottom: 0px;}
 	#mobilefix4{text-align: start;}
 	.margin-bottom60{margin-bottom: 25px;}
-	.spacer{width: 25%;}
+	.spacer{width: 20%;}
 	.part3{margin-top: 40px;font-size: 30px;}
 	.part4{margin-left: 100px;margin-top: 20px;}
 	.block-text3{height: 470px;width: 390px;}
 	#mobilefix6{display:inline-block;}
 	#mobilefix5{display: none;}
-	footer{margin-left: 35px;}
-	.title2{margin-top: 0px;font-size: 18px;}
+	footer{margin-left: 28px;}
+	.title2{margin-top:40px;font-size: 18px;}
 	#mobilefix7{width: 274px;margin-left: 5px;}
 	.margin-left-bit{margin-left: 0px;}
 	.block-text{height: 1146px;}
-	#mobilefix8{width: 22%;}
-	.part4 {margin-left: 92px;margin-top: 13px;}
+	#mobilefix8{width: 18%;}
+	.part4 {margin-left: 75px;margin-top: 13px;}
 	.block-text2{height: 647px;}
+	.side-bar{width: 60px;}
+	.sidenav{margin-left: 59px;}
+	#mobilefix9{margin-top: 40px;}
+	#mobilefix10{width: 18%;}
+
 }
